@@ -6,6 +6,9 @@ Um error boundarie é criado quando o método componentDidCatch é declarado em 
 No caso desse projeto, o error boundary foi declarado em src/ErrorBoundary
 
 
+
+
+###################################################################################################
 --Informations about this project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
